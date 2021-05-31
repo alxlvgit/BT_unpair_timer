@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth timer</string>
+    <string name="start">start</string>
+    <string name="_00_00">00:00</string>
+</resources>
